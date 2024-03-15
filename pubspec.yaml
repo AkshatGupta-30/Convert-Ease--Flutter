@@ -1,0 +1,24 @@
+name: convert_ease
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  fluentui_system_icons: ^1.1.231
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+  gap: ^3.0.1
+  iconify: ^0.0.1
+  iconify_flutter_plus: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
